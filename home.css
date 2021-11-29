@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: #887284;
+    min-height: 10vh;
+  } 
+  .box{
+    background-color: rgb(166, 158, 182);
+  }
+  
+  
+  p {
+    color: red;
+    padding: 1em;
+    text-align: left;
+  }

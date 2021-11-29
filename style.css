@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: #245e72;
+    min-height: 100vh;
+  }
+  
+   #preview {
+    padding: 2px;;
+    font-size: 40px;
+    text-transform: capitalize;
+  }
+   
+  #list {
+    padding: 4rem;
+  }
+  
+  input {
+    height: 20px;
+    width: 20px;
+  }
